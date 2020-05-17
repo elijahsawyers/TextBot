@@ -27,7 +27,7 @@ repeat with ln in lns
 
           -- Set text parameters.
           set targetService to id of first service whose service type = iMessage
-          set phoneNumber to "+13343501924"
+          set phoneNumber to "PUT THE NUMBER HERE"
           set textMessage to (the clipboard)
 
           -- Send the text.
