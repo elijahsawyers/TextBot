@@ -14,4 +14,4 @@ osascript text_bot.applescript
 ```
 
 ## Built By
-* [Elijah Sawyers](https://github.com/elijahsawyers)
+* [Elijah Sawyers](https://github.com/elijahsawyers/)
