@@ -10,7 +10,7 @@ Next, input the data you want to text line-by-line into the MESSAGE.txt file.
 
 Lastly, navigate to the directory with the script and run it.
 
-```
+```sh
 osascript text_bot.applescript
 ```
 
